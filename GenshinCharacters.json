@@ -1,0 +1,122 @@
+{
+    "Characters": [
+
+        {
+            "CharName": "Jean Gunnhildr",
+            "CharImg": "Character_Jean_Card.webp",
+            "CharThumb": "Character_Jean_Th,umb.webp",
+            "CharSex": "Female",
+            "CharBirth": "March 14th",
+            "CharConstellation": "Leo Minor",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius, Four Winds, Gunnhildr Clan",
+            "CharFood": "Invigorating Pizza",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Jean/Story"
+        },
+        {
+            "CharName": "Amber",
+            "CharImg": "Character_Amber_Card.webp",
+            "CharThumb": "Character_Amber_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "August 10th",
+            "CharConstellation": "Lepus",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius",
+            "CharFood": "Outrider's Champion",
+            "CharObtain": "Complete 'Winds of the Past', Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Amber/Story"
+        },
+        {
+            "CharName": "Lisa Minci",
+            "CharImg": "Character_Lisa_Card.webp",
+            "CharThumb": "Character_Lisa_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "June 9th",
+            "CharConstellation": "Tempus Fugit",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius, Sumeru Academia",
+            "CharFood": "Mysterious Bolognese",
+            "CharObtain": "Complete 'Sparks Amongst the Pages', Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Lisa/Story"
+        },
+        {
+            "CharName": "Kaeya Alberich",
+            "CharImg": "Character_Kaeya_Card.webp",
+            "CharThumb": "Character_Kaeya_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "November 30th",
+            "CharConstellation": "Pavo Ocellus",
+            "CharNation": "Mondstadt, Khaenri'ah",
+            "CharAffiliation": "Knight of Favonius, Khaenri'ah",
+            "CharFood": "Fruity Skewers",
+            "CharObtain": "Complete 'Crash Course', Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Kaeya/Story"
+        },
+        {
+            "CharName": "Barbara Pegg",
+            "CharImg": "Character_Barbara_Card.webp",
+            "CharThumb": "Character_Barbara_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "July 5th",
+            "CharConstellation": "Crater",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Church of Favonius",
+            "CharFood": "Spicy Stew",
+            "CharObtain": "Barbara's Shining Debut [Event], Baptism of Song [Event], Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Barbara/Story"
+        },
+        {
+            "CharName": "Diluc",
+            "CharImg": "Character_Diluc_Card.webp",
+            "CharThumb": "Character_Diluc_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "April 30th",
+            "CharConstellation": "Noctua",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Dawn Winery, Knights of Favonius",
+            "CharFood": "Once Upon a Time in Mondstadt",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Diluc/Story"
+        },
+        {
+            "CharName": "Venti",
+            "CharImg": "Character_Venti_Card.webp",
+            "CharThumb": "Character_Venti_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "June 16th",
+            "CharConstellation": "Carmen Dei",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "City of Mondstadt, Archons",
+            "CharFood": "A Bouyant Breeze",
+            "CharObtain": "Event Wish - Ballad in Goblets",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Venti/Story"
+        },
+        {
+            "CharName": "Razor",
+            "CharImg": "Character_Razor_Card.webp",
+            "CharThumb": "Character_Razor_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "September 9th",
+            "CharConstellation": "Lupus Minor",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Wolvendom (Andrius)",
+            "CharFood": "Puppy-Paw Hash Brown",
+            "CharObtain": "Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Razor/Story"
+        },
+        {
+            "CharName": "Noelle",
+            "CharImg": "Character_Noelle_Card.webp",
+            "CharThumb": "Character_Noelle_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "March 21st",
+            "CharConstellation": "Parma Cordis",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius",
+            "CharFood": "Lighter-Than-Air Pancake",
+            "CharObtain": "Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Noelle/Story"
+        }
+    ]
+}

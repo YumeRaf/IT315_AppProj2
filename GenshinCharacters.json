@@ -3,8 +3,8 @@
 
         {
             "CharName": "Jean Gunnhildr",
-            "CharImg": "Character_Jean_Card.webp",
-            "CharThumb": "Character_Jean_Th,umb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Jean_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Jean_Thumb.webp",
             "CharSex": "Female",
             "CharBirth": "March 14th",
             "CharConstellation": "Leo Minor",
@@ -16,8 +16,8 @@
         },
         {
             "CharName": "Amber",
-            "CharImg": "Character_Amber_Card.webp",
-            "CharThumb": "Character_Amber_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Amber_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Amber_Thumb.webp",
             "CharSex": "Female",
             "CharBirth": "August 10th",
             "CharConstellation": "Lepus",
@@ -29,8 +29,8 @@
         },
         {
             "CharName": "Lisa Minci",
-            "CharImg": "Character_Lisa_Card.webp",
-            "CharThumb": "Character_Lisa_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Lisa_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Lisa_Thumb.webp",
             "CharSex": "Female",
             "CharBirth": "June 9th",
             "CharConstellation": "Tempus Fugit",
@@ -42,8 +42,8 @@
         },
         {
             "CharName": "Kaeya Alberich",
-            "CharImg": "Character_Kaeya_Card.webp",
-            "CharThumb": "Character_Kaeya_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Kaeya_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Kaeya_Thumb.webp",
             "CharSex": "Male",
             "CharBirth": "November 30th",
             "CharConstellation": "Pavo Ocellus",
@@ -55,8 +55,8 @@
         },
         {
             "CharName": "Barbara Pegg",
-            "CharImg": "Character_Barbara_Card.webp",
-            "CharThumb": "Character_Barbara_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Barbara_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Barbara_Thumb.webp",
             "CharSex": "Female",
             "CharBirth": "July 5th",
             "CharConstellation": "Crater",
@@ -68,8 +68,8 @@
         },
         {
             "CharName": "Diluc",
-            "CharImg": "Character_Diluc_Card.webp",
-            "CharThumb": "Character_Diluc_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Diluc_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Diluc_Thumb.webp",
             "CharSex": "Male",
             "CharBirth": "April 30th",
             "CharConstellation": "Noctua",
@@ -81,8 +81,8 @@
         },
         {
             "CharName": "Venti",
-            "CharImg": "Character_Venti_Card.webp",
-            "CharThumb": "Character_Venti_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Venti_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Venti_Thumb.webp",
             "CharSex": "Male",
             "CharBirth": "June 16th",
             "CharConstellation": "Carmen Dei",
@@ -94,8 +94,8 @@
         },
         {
             "CharName": "Razor",
-            "CharImg": "Character_Razor_Card.webp",
-            "CharThumb": "Character_Razor_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Razor_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Razor_Thumb.webp",
             "CharSex": "Male",
             "CharBirth": "September 9th",
             "CharConstellation": "Lupus Minor",
@@ -107,8 +107,8 @@
         },
         {
             "CharName": "Noelle",
-            "CharImg": "Character_Noelle_Card.webp",
-            "CharThumb": "Character_Noelle_Thumb.webp",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Noelle_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Noelle_Thumb.webp",
             "CharSex": "Female",
             "CharBirth": "March 21st",
             "CharConstellation": "Parma Cordis",

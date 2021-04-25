@@ -1,5 +1,6 @@
 {
     "Characters": [
+
         {
             "CharName": "Jean Gunnhildr",
             "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Jean_Card.webp",
@@ -116,6 +117,110 @@
             "CharFood": "Lighter-Than-Air Pancake",
             "CharObtain": "Wishes or Paimon's Bargains",
             "CharStory": "https://genshin-impact.fandom.com/wiki/Noelle/Story"
+        },
+        {
+            "CharName": "Klee",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Klee_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Klee_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "July 27th",
+            "CharConstellation": "Trifolium",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius",
+            "CharFood": "Fish-Flavored Toast",
+            "CharObtain": "Event Wish - Sparkling Steps",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Klee/Story"
+        },
+        {
+            "CharName": "Bennett",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Bennett_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Bennett_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "February 29th",
+            "CharConstellation": "Rota Calamitas",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Adventures' Guild",
+            "CharFood": "Teyvat Charred Egg",
+            "CharObtain": "Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Benette/Story"
+        },
+        {
+            "CharName": "Sucrose",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Sucrose_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Sucrose_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "November 26th",
+            "CharConstellation": "Ampulla",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius",
+            "CharFood": "Nutritious Meal (V.593)",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Sucrose/Story"
+        },
+        {
+            "CharName": "Fischl von Luftschloss Narfidort",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Fischl_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Fischl_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "May 27th",
+            "CharConstellation": "Corvus",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Adventures' Guild",
+            "CharFood": "Die Heilige Sinfonie",
+            "CharObtain": "Unreconciled Stars (Event), Wishes or Paimon's Bargains",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Fischl/Story"
+        },
+        {
+            "CharName": "Mona Megistus",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Mona_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Mona_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "August 31st",
+            "CharConstellation": "Astrolabos",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Hexenzirkel",
+            "CharFood": "Der Weisheit Letzter Scluss (Life)",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Mona/Story"
+        },
+        {
+            "CharName": "Diona",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Diona_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Diona_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "January 18th",
+            "CharConstellation": "Feles",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Cat's Tail Tavern, Kätzlein Family",
+            "CharFood": "Definitely Not Bar Food!",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Diona/Story"
+        },
+        {
+            "CharName": "Albedo",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Albedo_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Albedo_Thumb.webp",
+            "CharSex": "Male",
+            "CharBirth": "September 13th",
+            "CharConstellation": "Princeps Cretaceus",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Knight of Favonius",
+            "CharFood": "Woodland Dream",
+            "CharObtain": "Event Wish - Secretum Secretorum",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Albedo/Story"
+        },
+        {
+            "CharName": "Rosaria",
+            "CharImg": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Rosaria_Card.webp",
+            "CharThumb": "https://raw.githubusercontent.com/YumeRaf/IT315_AppProj2/main/Character_Rosaria_Thumb.webp",
+            "CharSex": "Female",
+            "CharBirth": "January 24th",
+            "CharConstellation": "Spinea Corona",
+            "CharNation": "Mondstadt",
+            "CharAffiliation": "Church of Favonius",
+            "CharFood": "Dinner of Judgment",
+            "CharObtain": "Wishes",
+            "CharStory": "https://genshin-impact.fandom.com/wiki/Rosaria/Story"
         }
     ]
 }
